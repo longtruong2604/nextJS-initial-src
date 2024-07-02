@@ -1,2 +1,2 @@
 # nextJS-initial-src
-new readme
+new readme updated
